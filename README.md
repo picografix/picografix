@@ -13,3 +13,6 @@ I am a designer and coder
 - ⚡ Fun fact: no fun :(
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=picografix&theme=onedark" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=picografix)](https://github.com/anuraghazra/github-readme-stats)
+
